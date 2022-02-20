@@ -46,31 +46,30 @@ fined_taxonomy = {
                     "Other Learning Paradigm"],
     
     # 4: Application
-    "Application": ["Image Classification"],
+    "Application": ["Image Classification", "Semantic Parsing"],
     
     # 5: Approach
-    "Approach": ["Seq2Seq", "Encoder-submodule", "Meta-learning", "Continual-learning", "Multi-task", "Other Approach"],
-    
+    "Approach": ["Rehearsal", "Regularization", "Dynamic Architecture"],
     # 6: Whether need memory
     "Memory": ["w/ External Knowledge", "w/o External Knowledge"],
     
     # 7: Setting
-    "Setting": ["Single-table", "Multi-table", "Interaction"],
+    "Setting": ["Online-learning", "Class-incremental", "Task-incremental"],
     
     # 8: Research Question
-    "RQs": {"Few-shot", "Zero-shot", "Combinatorial Generalization", "Others RQs"},
+    "RQs": {"Few-shot", "Zero-shot", "Imbalanced Data", "Others RQs"},
     
     # 9: Backbone
     "Backbone": ["BERTs", "Transformers", "Adapter", "RNNs", "CNNs", "GNNs", "Attentions", "Capsule Net",
                  "Probabilistic Graphical Model", "VAEs", "Other Structure"],
     
     # 10: Dataset
-    "Dataset": ["WikiSQL", "WikiTableQuestions",
-                "Spider",
-                "ATIS",
+    "Dataset": ["MNIST", "CIFAR-10",
+                "Fashion-MNIST",
+                "CIFAR-100",
                 "Other Dataset"
                 ],
     
     # 11: Metrics
-    "Metrics": ["Accuracy", "F1", "LF", "EX"],
+    "Metrics": ["Accuracy", "FWT", "BWT"],
 }
