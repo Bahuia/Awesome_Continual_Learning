@@ -8,7 +8,7 @@ This page categorizes the literature by the Contribution.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/contribution/README.md#hyperlink)
-- [![](https://img.shields.io/badge/New_Method-1-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/contribution/README.md#new-method)
+- [![](https://img.shields.io/badge/New_Method-2-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/contribution/README.md#new-method)
 ## Hyperlink 
 - [[Overview]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/README.md) -- [Homepage](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4nlp/./)  [[CV]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4cv/./) -- [Summary](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/./)
@@ -27,6 +27,10 @@ This page categorizes the literature by the Contribution.
 
 ## New Method
 
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.01085)<a href="https://scholar.google.com.hk/scholar?q=Online+Coreset+Selection+for+Rehearsal-based+Continual+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Online Coreset Selection for Rehearsal-based Continual Learning**](https://arxiv.org/abs/2106.01085) , <br> by *Jaehong Yoon and
+Divyam Madaan and
+Eunho Yang and
+Sung Ju Hwang* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/./bibtex.bib#L34-L59) <br></details><details><summary><img src=https://github.com/bahuia/Awesome_Continual_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DBLP:journals/corr/abs-2106-01085```
 - [![](https://img.shields.io/badge/ICML-2020-green)](http://proceedings.mlr.press/v119/chrysakis20a.html)<a href="https://scholar.google.com.hk/scholar?q=Online+Continual+Learning+from+Imbalanced+Data"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Online Continual Learning from Imbalanced Data**](http://proceedings.mlr.press/v119/chrysakis20a.html) , <br> by *Aristotelis Chrysakis and
 Marie{-}Francine Moens* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/./bibtex.bib#L5-L30) <br>```Class-Balancing Reservoir Sampling
 ```</details><details><summary><img src=https://github.com/bahuia/Awesome_Continual_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ChrysakisM20```
