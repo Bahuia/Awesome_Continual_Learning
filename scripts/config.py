@@ -49,7 +49,7 @@ fined_taxonomy = {
     "Application": ["Image Classification", "Semantic Parsing"],
     
     # 5: Approach
-    "Approach": ["Rehearsal", "Regularization", "Dynamic Architecture"],
+    "Approach": ["Rehearsal", "Regularization", "Dynamic Architecture", "Fast-slow"],
     # 6: Whether need memory
     "Memory": ["w/ External Knowledge", "w/o External Knowledge"],
     
@@ -67,6 +67,8 @@ fined_taxonomy = {
     "Dataset": ["MNIST", "CIFAR-10",
                 "Fashion-MNIST",
                 "CIFAR-100",
+                "Overnight",
+                "NLMapV2",
                 "Other Dataset"
                 ],
     

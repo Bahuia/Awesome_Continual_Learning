@@ -8,7 +8,7 @@ This page categorizes the literature by the **Metrics**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/metrics/README.md#hyperlink)
-- [![](https://img.shields.io/badge/Accuracy-1-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/metrics/README.md#accuracy)
+- [![](https://img.shields.io/badge/Accuracy-2-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/metrics/README.md#accuracy)
 - [![](https://img.shields.io/badge/BWT-2-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/metrics/README.md#bwt)
 ## Hyperlink 
 - [[Overview]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/README.md) -- [Homepage](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/README.md)
@@ -32,6 +32,10 @@ This page categorizes the literature by the **Metrics**.
 Divyam Madaan and
 Eunho Yang and
 Sung Ju Hwang* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/./bibtex.bib#L34-L59) <br></details><details><summary><img src=https://github.com/bahuia/Awesome_Continual_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DBLP:journals/corr/abs-2106-01085```
+- [![](https://img.shields.io/badge/EMNLP-2021-green)](https://doi.org/10.18653/v1/2021.emnlp-main.310)<a href="https://scholar.google.com.hk/scholar?q=Total+Recall:+a+Customized+Continual+Learning+Method+for+Neural+Semantic+Parsers"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Total Recall: a Customized Continual Learning Method for Neural Semantic
+Parsers**](https://doi.org/10.18653/v1/2021.emnlp-main.310) , <br> by *Zhuang Li and
+Lizhen Qu and
+Gholamreza Haffari* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/./bibtex.bib#L61-L91) <br></details><details><summary><img src=https://github.com/bahuia/Awesome_Continual_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DBLP:conf/emnlp/LiQH21```
 ## BWT
 
 - [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2106.01085)<a href="https://scholar.google.com.hk/scholar?q=Online+Coreset+Selection+for+Rehearsal-based+Continual+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Online Coreset Selection for Rehearsal-based Continual Learning**](https://arxiv.org/abs/2106.01085) , <br> by *Jaehong Yoon and

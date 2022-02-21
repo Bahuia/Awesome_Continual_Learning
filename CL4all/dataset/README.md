@@ -12,6 +12,8 @@ This page categorizes the literature by the **Dataset**.
 - [![](https://img.shields.io/badge/CIFAR_100-2-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/dataset/README.md#cifar-100)
 - [![](https://img.shields.io/badge/Fashion_MNIST-1-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/dataset/README.md#fashion-mnist)
 - [![](https://img.shields.io/badge/MNIST-2-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/dataset/README.md#mnist)
+- [![](https://img.shields.io/badge/NLMapV2-1-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/dataset/README.md#nlmapv2)
+- [![](https://img.shields.io/badge/Overnight-1-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/dataset/README.md#overnight)
 ## Hyperlink 
 - [[Overview]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/README.md) -- [Homepage](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4nlp/./)  [[CV]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4cv/./) -- [Summary](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4all/./)
@@ -60,3 +62,15 @@ Sung Ju Hwang* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob
 - [![](https://img.shields.io/badge/ICML-2020-green)](http://proceedings.mlr.press/v119/chrysakis20a.html)<a href="https://scholar.google.com.hk/scholar?q=Online+Continual+Learning+from+Imbalanced+Data"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Online Continual Learning from Imbalanced Data**](http://proceedings.mlr.press/v119/chrysakis20a.html) , <br> by *Aristotelis Chrysakis and
 Marie{-}Francine Moens* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/./bibtex.bib#L5-L30) <br>```Class-Balancing Reservoir Sampling
 ```</details><details><summary><img src=https://github.com/bahuia/Awesome_Continual_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ChrysakisM20```
+## NLMapV2
+
+- [![](https://img.shields.io/badge/EMNLP-2021-green)](https://doi.org/10.18653/v1/2021.emnlp-main.310)<a href="https://scholar.google.com.hk/scholar?q=Total+Recall:+a+Customized+Continual+Learning+Method+for+Neural+Semantic+Parsers"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Total Recall: a Customized Continual Learning Method for Neural Semantic
+Parsers**](https://doi.org/10.18653/v1/2021.emnlp-main.310) , <br> by *Zhuang Li and
+Lizhen Qu and
+Gholamreza Haffari* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/./bibtex.bib#L61-L91) <br></details><details><summary><img src=https://github.com/bahuia/Awesome_Continual_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DBLP:conf/emnlp/LiQH21```
+## Overnight
+
+- [![](https://img.shields.io/badge/EMNLP-2021-green)](https://doi.org/10.18653/v1/2021.emnlp-main.310)<a href="https://scholar.google.com.hk/scholar?q=Total+Recall:+a+Customized+Continual+Learning+Method+for+Neural+Semantic+Parsers"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Total Recall: a Customized Continual Learning Method for Neural Semantic
+Parsers**](https://doi.org/10.18653/v1/2021.emnlp-main.310) , <br> by *Zhuang Li and
+Lizhen Qu and
+Gholamreza Haffari* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/./bibtex.bib#L61-L91) <br></details><details><summary><img src=https://github.com/bahuia/Awesome_Continual_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DBLP:conf/emnlp/LiQH21```

@@ -8,7 +8,7 @@ This page categorizes the literature by the **Last Post**, filtered by NLP area.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4nlp/time/README.md#hyperlink)
-- [![](https://img.shields.io/badge/2021-1-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4nlp/time/README.md#2021)
+- [![](https://img.shields.io/badge/2021-2-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4nlp/time/README.md#2021)
 - [![](https://img.shields.io/badge/2020-1-green)](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/CL4nlp/time/README.md#2020)
 ## Hyperlink 
 - [[Overview]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/README.md) -- [Homepage](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/README.md)
@@ -32,6 +32,10 @@ This page categorizes the literature by the **Last Post**, filtered by NLP area.
 Divyam Madaan and
 Eunho Yang and
 Sung Ju Hwang* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/./bibtex.bib#L34-L59) <br></details><details><summary><img src=https://github.com/bahuia/Awesome_Continual_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DBLP:journals/corr/abs-2106-01085```
+- [![](https://img.shields.io/badge/EMNLP-2021-green)](https://doi.org/10.18653/v1/2021.emnlp-main.310)<a href="https://scholar.google.com.hk/scholar?q=Total+Recall:+a+Customized+Continual+Learning+Method+for+Neural+Semantic+Parsers"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Total Recall: a Customized Continual Learning Method for Neural Semantic
+Parsers**](https://doi.org/10.18653/v1/2021.emnlp-main.310) , <br> by *Zhuang Li and
+Lizhen Qu and
+Gholamreza Haffari* [[bib]](https://github.com/bahuia/Awesome_Continual_Learning/blob/master/./bibtex.bib#L61-L91) <br></details><details><summary><img src=https://github.com/bahuia/Awesome_Continual_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DBLP:conf/emnlp/LiQH21```
 ## 2020
 
 - [![](https://img.shields.io/badge/ICML-2020-green)](http://proceedings.mlr.press/v119/chrysakis20a.html)<a href="https://scholar.google.com.hk/scholar?q=Online+Continual+Learning+from+Imbalanced+Data"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Online Continual Learning from Imbalanced Data**](http://proceedings.mlr.press/v119/chrysakis20a.html) , <br> by *Aristotelis Chrysakis and
